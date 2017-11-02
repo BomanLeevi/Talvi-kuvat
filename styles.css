@@ -1,0 +1,36 @@
+h1{
+    color: #ff6666;
+	text-align:center;
+	font-size:4vw;
+}
+p{
+    color: #ff6666;
+	text-align:center;
+	font-size:2vw;
+}
+body{
+	margin:0;
+}
+#header{
+	background-color:#00cc44;
+	padding:10px;
+}
+#left{
+	padding:50px;
+	margin:10px;
+	background-color:#00cc44;
+}
+#center{
+	padding:50px;
+	margin:10px;
+	background-color:#00cc44;
+}
+#right{
+	padding:50px;
+	margin:10px;
+	background-color:#00cc44;
+}
+img{
+	max-width:30%;
+	margin:auto;
+}
